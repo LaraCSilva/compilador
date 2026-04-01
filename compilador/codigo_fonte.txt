@@ -1,0 +1,18 @@
+int a;
+int b;
+a + b;
+3347.9;
+9 + 0
+if a == 9{
+    "oioioi"
+}
+
+int @ 
+0.0.0
+/*isso é um comentario
+hahahahah*/ int e
+//isso tbm
+d = a + 4;
+300abc int x;
+"ola
+/*ola
